@@ -3,8 +3,7 @@ CONFIG_PACKAGE_luci-app-homeproxy=n
 #增加插件
 CONFIG_PACKAGE_luci-app-samba4=y
 CONFIG_PACKAGE_luci-app-wolplus=y
-CONFIG_PACKAGE_luci-app-gecoosac=n
-CONFIG_PACKAGE_luci-app-tailscale=n
+
 CONFIG_PACKAGE_luci-app-autoreboot=y
 CONFIG_PACKAGE_openssh-sftp-server=y
 CONFIG_PACKAGE_luci-app-eqos-mtk=y
@@ -28,3 +27,5 @@ CONFIG_PACKAGE_luci-app-udpxy=y
 CONFIG_PACKAGE_luci-proto-wireguard=y
 #删除
 luci-theme-argon=n
+CONFIG_PACKAGE_luci-app-gecoosac=n
+CONFIG_PACKAGE_luci-app-tailscale=n
