@@ -26,8 +26,9 @@ CONFIG_MTK_MEMORY_SHRINK_AGGRESS=n
 CONFIG_PACKAGE_luci-app-udpxy=y
 CONFIG_PACKAGE_luci-proto-wireguard=y
 CONFIG_PACKAGE_luci-app-openclash=y
+CONFIG_PACKAGE_luci-app-dockerman=y
 #删除
-luci-theme-argon=n
+CONFIG_PACKAGE_luci-theme-argon=n
 CONFIG_PACKAGE_luci-app-gecoosac=n
 CONFIG_PACKAGE_luci-app-tailscale=n
 CONFIG_PACKAGE_luci-app-homeproxy=n
