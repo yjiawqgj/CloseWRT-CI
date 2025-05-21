@@ -27,9 +27,6 @@ CONFIG_PACKAGE_luci-app-udpxy=y
 CONFIG_PACKAGE_luci-proto-wireguard=y
 CONFIG_PACKAGE_luci-app-openclash=y
 CONFIG_PACKAGE_luci-app-dockerman=y
-#重点
-CONFIG_PACKAGE_nfs-utils=n
-CONFIG_PACKAGE_luci-app-nfs=n
 #删除
 CONFIG_PACKAGE_luci-theme-argon=n
 CONFIG_PACKAGE_luci-app-gecoosac=n
