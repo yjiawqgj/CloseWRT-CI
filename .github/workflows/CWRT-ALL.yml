@@ -61,7 +61,7 @@ jobs:
       #默认主题
       WRT_THEME: bootstrap
       #默认主机名
-      WRT_NAME: QpenWrt
+      WRT_NAME: OpenWrt
       #默认WIFI名称
       WRT_SSID: 互联网
       #默认WIFI密码
