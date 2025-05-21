@@ -1,5 +1,5 @@
 #CI项目
-name: 测试
+name: 测试测试配置
 
 #CI计划
 on:
@@ -54,7 +54,7 @@ jobs:
           #- {SOURCE: "NekokeCore/immortalwrt-mt798x-24.10", BRANCH: "openwrt-24.10"}
 
     #调用公用编译核心WRT-CORE.yml
-    uses: ./.github/workflows/make.yml
+    uses: ./.github/workflows/测试编译.yml
     with:
       #编译配置
       WRT_CONFIG: ${{matrix.CONFIG}}
