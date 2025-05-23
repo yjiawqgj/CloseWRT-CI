@@ -34,4 +34,6 @@ CONFIG_PACKAGE_luci-app-samba4=n
 CONFIG_PACKAGE_kmod-fs-nfs=y
 CONFIG_PACKAGE_kmod-fs-nfs-v4=y 
 CONFIG_PACKAGE_kmod-dm=y
-
+#测试
+CONFIG_PACKAGE_luci-app-ddns-go=y
+CONFIG_PACKAGE_luci-app-ttyd=y
