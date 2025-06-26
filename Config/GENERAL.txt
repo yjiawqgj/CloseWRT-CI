@@ -38,6 +38,5 @@ CONFIG_PACKAGE_luci-app-taskplan=y
 CONFIG_PACKAGE_kmod-fs-nfs=y
 CONFIG_PACKAGE_kmod-fs-nfs-v4=y 
 CONFIG_PACKAGE_kmod-dm=y
-#测试
-CONFIG_PACKAGE_luci-app-alist=y
+
 
